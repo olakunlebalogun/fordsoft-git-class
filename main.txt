@@ -1,0 +1,24 @@
+Welcome to Learn Software Development... I'm sure you will have a good time learning.
+
+# Class One
+
+Learning GIT
+
+Version Control System
+git and github
+
+Git commands
+
+
+
+git status - Status of repositories
+git init - initialize a folder as a repository
+git add <filename> - moving file(s) to staging area
+git rm --cached <filename> - to remove from from the staging area to the Untracked area.
+git rm -r --cached . - to remove several file from the staging area
+git restore . - to discard changes not in the staging area
+
+
+repositories - Storage
+directories - Folder
+
