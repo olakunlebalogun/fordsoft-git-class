@@ -13,3 +13,5 @@ git branch -a
 git branch <branch-name>
 
 git checkout <branch-name>
+
+git checkout -b <branch-name> // the last two commands combined
