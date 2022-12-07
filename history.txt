@@ -1,0 +1,15 @@
+git init
+git add .
+git commit -m " "
+git branch -M test
+git remte add origin <github url>
+git push -u origin test
+
+// branch
+
+git branch 
+git branch -a
+
+git branch <branch-name>
+
+git checkout <branch-name>
