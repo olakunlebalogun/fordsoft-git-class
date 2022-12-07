@@ -22,3 +22,4 @@ git restore . - to discard changes not in the staging area
 repositories - Storage
 directories - Folder
 
+// This is serious, i hope this will be useful in the future.
